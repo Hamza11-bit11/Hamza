@@ -12,4 +12,4 @@
 
 ![hola-soy-goku_vzxh](https://github.com/user-attachments/assets/62f3f60f-29d6-4a01-8095-bc4451a52f89)
 https://www.youtube.com/watch?v=8zS10xmlE0M
-[hola.md](www.github.com)
+[hola.md](hola.md)
